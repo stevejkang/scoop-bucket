@@ -1,12 +1,12 @@
 {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/stevejkang/tokfresh-cli/releases/download/v0.0.4/tokfresh_0.0.4_windows_amd64.zip",
+            "url": "https://github.com/stevejkang/tokfresh-cli/releases/download/v0.0.5/tokfresh_0.0.5_windows_amd64.zip",
             "bin": [
                 "tokfresh.exe"
             ],
-            "hash": "2a2ec42e1de2e09dc1f27c5efc65e30ee6a298742cc63fb1ae6dd9f2ffaa8cbd"
+            "hash": "a15631f562d9d8d4934db1ea15ec36ed172a1420f009b4e7e1f8f90733925599"
         }
     },
     "homepage": "https://github.com/stevejkang/tokfresh-cli",
